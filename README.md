@@ -1,11 +1,11 @@
-# 🎮 Tic Tac Toe Game Using Java
+#  Tic Tac Toe Game Using Java
 
-## 📌 Project Overview
+##  Project Overview
 This project is a console-based Tic Tac Toe game developed using Java. It allows a human player to play against an AI opponent. The AI uses the **Minimax Algorithm** to select the best possible moves.
 
 The project demonstrates important Data Structures and Algorithms (DSA) concepts through an interactive game.
 
-## 🚀 Features
+##  Features
 - 3×3 Tic Tac Toe game board.
 - Human vs AI gameplay.
 - AI decision-making using the Minimax Algorithm.
@@ -17,14 +17,14 @@ The project demonstrates important Data Structures and Algorithms (DSA) concepts
 - Input validation and error handling.
 - Automatic winner and draw detection.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Programming Language:** Java
 - **Data Structures:** 2D Array, Stack
 - **Algorithms:** Minimax Algorithm, Backtracking
 - **File Handling:** Java I/O and NIO
 - **IDE:** VS Code / IntelliJ IDEA / Eclipse
 
-## 🧠 DSA Concepts Used
+##  DSA Concepts Used
 | Concept | Application |
 |---|---|
 | 2D Array | Stores the game board |
@@ -33,7 +33,7 @@ The project demonstrates important Data Structures and Algorithms (DSA) concepts
 | Backtracking | Explores possible moves |
 | Searching | Checks winning combinations |
 
-## 🎯 How to Run the Project
+##  How to Run the Project
 
 ### 1. Clone the Repository
 ```bash
@@ -55,7 +55,7 @@ javac TicTacToeAI.java
 java TicTacToeAI
 ```
 
-## 🎮 How to Play
+##  How to Play
 - AI plays with **X**.
 - Human player plays with **O**.
 - Enter row and column numbers between 0 and 2.
@@ -69,7 +69,7 @@ java TicTacToeAI
 | `load` | Load a saved game |
 | `exit` | Exit the game |
 
-## 📂 Project Structure
+##  Project Structure
 ```text
 TicTacToe/
 │
@@ -80,16 +80,16 @@ TicTacToe/
 
 `game_state.txt` is created when the game is saved.
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 - Graphical User Interface (GUI).
 - Multiple difficulty levels.
 - Two-player mode.
 - Scoreboard and player statistics.
 
-## 👨‍💻 Author
+##  Author
 **Aryan Raj**
-
+erp id - RU-25-10297
 B.Tech Computer Science Engineering
+Rungta international skills university
+Instructor name - Mr - Surya mani verma sir
 
-## 📜 License
-This project is developed for educational and academic purposes.
