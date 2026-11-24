@@ -88,8 +88,8 @@ TicTacToe/
 
 ##  Author
 **Aryan Raj**
-erp id - RU-25-10297
-B.Tech Computer Science Engineering
-Rungta international skills university
-Instructor name - Mr - Surya mani verma sir
+*erp id - RU-25-10297*
+*B.Tech Computer Science Engineering*
+*Rungta international skills university*
+*Instructor name - Mr - Surya mani verma sir*
 
