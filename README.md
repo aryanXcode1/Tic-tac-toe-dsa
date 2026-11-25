@@ -86,10 +86,11 @@ TicTacToe/
 - Two-player mode.
 - Scoreboard and player statistics.
 
-##  Author
-**Aryan Raj**
-*erp id - RU-25-10297*
-*B.Tech Computer Science Engineering*
-*Rungta international skills university*
-*Instructor name - Mr - Surya mani verma sir*
+## Author
+
+**Name:** Aryan Raj  
+**ERP ID:** RU-25-10297  
+**Course:** B.Tech Computer Science Engineering  
+**University:** Rungta International Skills University  
+**Instructor:** Mr. Surya Mani Verma Sir
 
